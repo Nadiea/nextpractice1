@@ -21,6 +21,12 @@ export function GET(request){
         { 
             name: "user1",
             email:"nadia@gamil.com"
+        },{ 
+            name: "user1",
+            email:"nadia@gamil.com"
+        },{ 
+            name: "user1",
+            email:"nadia@gamil.com"
         },
     ]
 
